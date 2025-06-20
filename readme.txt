@@ -54,6 +54,11 @@ The dashboard will automatically open in your browser.
 
 ## 💡 Features
 
+⚠️ **Note:** The file `model.pkl` is a trained Random Forest model saved in binary format.  
+GitHub does not support previewing `.pkl` files directly, but it is included in this repository and can be used to run the Streamlit dashboard.
+
+If you face any issues, you can also [download model.pkl from Google Drive](https://drive.google.com/your-link-here) 🔗
+
 - Predicts house price instantly
 - Risk score displayed for quick insights
 - Live dataset preview on the dashboard
